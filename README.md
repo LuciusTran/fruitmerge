@@ -1,40 +1,43 @@
 # Fruit Merge
 
-Game ghép trái cây bằng Unity, gồm luật va chạm/ghép quả, tính điểm, skin, trang trí phòng và lưu tiến trình.
+Fruit Merge is a Unity puzzle game where you drop fruit, merge matching pairs, and make room for bigger combinations. Aim for a high score, unlock fruit skins, and decorate your room as you progress.
 
-## Mở và chơi
+## How to Play
 
-1. Clone repository rồi mở folder `fruitmerge` bằng **Unity 6000.4.12f1** qua Unity Hub.
-2. Chờ Unity tải packages và import assets ở lần mở đầu.
-3. Mở scene `Assets/Recovery/Scenes/FruitMergePlayable.unity`.
-4. Nhấn **Play**, chọn **PLAY/CONTINUE**, kéo chuột hoặc chạm rồi thả để thả quả.
+1. Select **PLAY** to start a game or **CONTINUE** to resume your saved board.
+2. Click or touch the play area, drag left or right to aim, then release to drop a fruit.
+3. Bring two fruits of the same level together to merge them into the next level. Work your way through all 11 fruit levels and build combos to increase your score.
+4. Watch the **NEXT** preview and plan your drops to keep space available. Avoid letting the fruit pile reach the top of the board.
+5. Use **CLEAN**, **BOMB**, **UPGRADE**, and **SHAKE** when you need help clearing space or setting up a merge. Bomb and Upgrade let you select a fruit on the board.
 
-Không cần cài REA, Ghidra hoặc có APK trên máy để chạy project này. Các file `.meta` được giữ cùng assets để bảo toàn GUID và liên kết prefab/scene.
+Use the pause button or press **Escape** to pause. Choose **RESUME** to keep playing or **NEW GAME** to start over. Your board, best score, and progression are saved locally.
 
-## Tính năng
+Visit **SKINS**, **ROOMS**, and **REWARDS** from the home screen to customize your game and collect progression rewards.
 
-- 11 cấp trái cây, ghép bằng Physics2D, điểm/combo và cảnh báo quá vạch.
-- Menu, tạm dừng, tiếp tục, thua, hồi sinh và chơi lại.
-- Lưu/khôi phục bàn chơi, điểm cao và tiến trình.
-- Skin, phòng trang trí, nhiệm vụ và thưởng đăng nhập.
-- Công cụ clean, bomb, upgrade, shake cùng âm thanh.
+## Setup
 
-Chọn **Recovered Game Host** trong scene và bật `Developer Unlocks` để thử nội dung trong lúc phát triển.
+### Requirements
 
-## Phát triển và build
+- Unity Hub
+- Unity Editor **6000.4.12f1**
+- Git
 
-- Gameplay: `Assets/Scripts/Assembly-CSharp/FruitItem.cs`, `MergeFruit.cs` và các file `*.Recovered.cs`.
-- UI và luồng chơi: `Assets/Recovery/RecoveredGameFlow*.cs`.
-- Cấu hình/prefab/âm thanh được nối qua `Assets/Resources/RecoveredCatalog.asset`.
-- **Fruit Merge → Prepare Project** tạo lại catalog và scene mặc định; lưu scene tùy chỉnh bằng tên khác trước khi chạy.
-- Build bằng Unity **Build Profiles**, hoặc gọi `RecoveredProjectBuilder.BuildLinux` trong batch mode. Bản Linux xuất vào `Builds/Linux/FruitMerge`.
+### Run in the Unity Editor
 
-Project có kiểm thử tích hợp trong player qua `--recovery-test --report /absolute/path/report.json`. Có thể thêm `-batchmode -nographics`. Cache, bản build và cấu hình riêng của máy không được đưa lên Git.
+1. Clone the repository:
 
-## Ghi chú kỹ thuật
+   ```bash
+   git clone https://github.com/LuciusTran/fruitmerge.git
+   ```
 
-Assets được trích xuất từ gói Fruit Merge 3.9 đã cung cấp. Gameplay C# được tái dựng dựa trên phân tích native; host/UI và một số phần tích hợp được viết để nối thành luồng chơi. Đây không phải source C# nguyên bản hoặc bản tương đương hoàn toàn của game gốc.
+2. In Unity Hub, add the cloned `fruitmerge` folder as a project and open it with Unity **6000.4.12f1**.
+3. Wait for Unity to resolve packages and finish importing assets.
+4. Open `Assets/Recovery/Scenes/FruitMergePlayable.unity`.
+5. Press **Play** in the Unity Editor, then select **PLAY** or **CONTINUE** in the game.
 
-Xem [ghi chú triển khai và giới hạn](RECOVERY.md), [ánh xạ các hàm C#](Evidence/csharp-restoration-map.json) và [mã giả native tham chiếu](DecompiledNative/INDEX.md).
+### Build a Standalone Player
 
-Project đã được import mới, build bằng Unity 6000.4.12f1 và qua 24 kiểm tra tích hợp trong player Linux. Kết quả riêng cho checkout này nằm tại [publication-verification.json](Evidence/publication-verification.json) và [publication-player-smoke.json](Evidence/publication-player-smoke.json). Android, thao tác chuột/chạm thực tế và độ tương đương toàn bộ animation/UI chưa được xác minh.
+1. Install the Unity build support module for your target platform through Unity Hub.
+2. Open **File → Build Profiles** and select your target platform.
+3. Make sure `Assets/Recovery/Scenes/FruitMergePlayable.unity` is enabled in the scene list.
+4. Select **Build**, choose an output folder, and launch the generated player.
