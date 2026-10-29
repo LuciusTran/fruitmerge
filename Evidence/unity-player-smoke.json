@@ -1,0 +1,31 @@
+{
+    "passed": true,
+    "unityVersion": "6000.4.12f1",
+    "error": "",
+    "checks": [
+        "Native prefab and actual fruit sprite loaded",
+        "484 C# CanMerge cases match ARM64-verified predicate",
+        "Real Physics2D collision merges two tier-1 fruits and awards prefab score 1",
+        "Collision creates actual tier-2 prefab",
+        "Board serialization contains native field names",
+        "Saved board restores native fruit prefabs",
+        "Home and continue preserve one board without duplicating saved fruit",
+        "Skin switch updates actual live sprite",
+        "Clean removes dynamic fruits in the first two tiers",
+        "Upgrade selection replaces one fruit with its successor",
+        "Bomb removes selected fruit",
+        "Pause stops gameplay",
+        "Resume restarts gameplay",
+        "Native 3.5-second danger threshold reaches game over",
+        "Revive clears high fruit and creates next fruit",
+        "Restart clears board and run score",
+        "Two maximum-tier fruits disappear without out-of-range successor",
+        "All ten tier transitions award exact recovered prefab scores",
+        "Room purchase advances real config item list",
+        "Profile save and ticket balance remain valid",
+        "Daily day-1 reward grants original configured bomb tool",
+        "Same-day reward cannot be claimed twice",
+        "Original task target and configured coin/skin rewards apply",
+        "Seven timed drops pass through active game controller"
+    ]
+}

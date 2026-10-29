@@ -1,0 +1,52 @@
+{
+  "TaskItems": [
+    {
+      "TargetGrade" : 2,
+      "TargetNum" : 40,
+      "RewardCoin" : 20,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 3,
+      "TargetNum" : 60,
+      "RewardCoin" : 20,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 4,
+      "TargetNum" : 60,
+      "RewardCoin" : 40,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 5,
+      "TargetNum" : 60,
+      "RewardCoin" : 40,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 6,
+      "TargetNum" : 30,
+      "RewardCoin" : 50,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 7,
+      "TargetNum" : 15,
+      "RewardCoin" : 50,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 8,
+      "TargetNum" : 5,
+      "RewardCoin" : 100,
+      "RewardSkinProgress" : 5
+    },
+    {
+      "TargetGrade" : 9,
+      "TargetNum" : 2,
+      "RewardCoin" : 100,
+      "RewardSkinProgress" : 5
+    }
+  ]
+}

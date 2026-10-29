@@ -1,0 +1,20 @@
+
+jingdeng.png
+size: 203,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bglt
+  rotate: false
+  xy: 2, 2
+  size: 114, 111
+  orig: 128, 128
+  offset: 6, 9
+  index: -1
+jingdeng
+  rotate: false
+  xy: 118, 7
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1

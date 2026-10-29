@@ -1,0 +1,62 @@
+
+mao.png
+size: 1889,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miyan
+  rotate: false
+  xy: 1629, 246
+  size: 223, 123
+  orig: 223, 123
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 861, 585
+  orig: 861, 585
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 865, 74
+  size: 513, 499
+  orig: 528, 499
+  offset: 14, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 1366, 35
+  size: 552, 261
+  orig: 552, 261
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1629, 44
+  size: 135, 200
+  orig: 135, 200
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: true
+  xy: 1766, 46
+  size: 198, 121
+  orig: 198, 121
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 865, 21
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1629, 371
+  size: 234, 216
+  orig: 234, 216
+  offset: 0, 0
+  index: -1

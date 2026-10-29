@@ -1,0 +1,34 @@
+
+jingcha.png
+size: 190,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 106, 41
+  size: 77, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 106, 5
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 148, 7
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1

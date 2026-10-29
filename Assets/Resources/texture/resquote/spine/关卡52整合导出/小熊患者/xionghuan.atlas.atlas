@@ -1,0 +1,62 @@
+
+xionghuan.png
+size: 133,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 186
+  size: 116, 98
+  orig: 126, 106
+  offset: 4, 8
+  index: -1
+foot1
+  rotate: false
+  xy: 2, 62
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 2, 123
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 3
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 81, 40
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+hanshui
+  rotate: true
+  xy: 86, 110
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 2, 286
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 72, 2
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1

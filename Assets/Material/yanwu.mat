@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: yanwu
+  m_Shader: {fileID: 4800000, guid: 6a69906b62af458438c025fb5532b700, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _AlphaTex:
+        m_Texture: {fileID: 2800000, guid: 55117653fb9765048b3a7fb167f2513d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.01, y: 0}
+      _AlphaTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _AlphaTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _AlphaTex4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _AlphaTex5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.3, y: 0.3}
+        m_Offset: {x: 0, y: 0.55}
+      _DistortionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _GradientTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: a07d7d252142ef544aa6405b9ab30912, type: 3}
+        m_Scale: {x: 0.92, y: 0.33}
+        m_Offset: {x: 0.05, y: 0}
+      _VertexOffsetTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      diss_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _Alpha: 1
+      _Alpha2U: 0
+      _Alpha2V: 0
+      _Alpha3U: 0
+      _Alpha3V: 0
+      _Alpha4U: 0
+      _Alpha4U1: 0
+      _Alpha4V: 0
+      _Alpha4V1: 0
+      _Alpha5U: 0.1
+      _Alpha5V: 0.2
+      _AlphaU: 0
+      _AlphaV: 0
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _Diss_Reverse: 0
+      _Diss_value: 1
+      _DistortionIndensity: 0
+      _DistortionU: 0
+      _DistortionV: 0
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _GradientTexU: 0
+      _GradientTexV: 0
+      _Group1: 0
+      _Group2: 0
+      _Group3: 0
+      _Group4: 0.36
+      _Group5: 0
+      _Group6: 0
+      _Indensity: 1
+      _MainPower: 1
+      _MainU: -0.3
+      _MainV: 0
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Opacity: 1
+      _OpacityPower: 1
+      _Parallax: 0.02
+      _Polar: 0
+      _PolarOffsetU: 0
+      _PolarOffsetV: 0
+      _PolarTileU: 1
+      _PolarTileV: 1
+      _PolarU: 0
+      _PolarV: 0
+      _Power: 1
+      _SmoothnessTextureChannel: 0
+      _Soft_value: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _Twist: 0
+      _UVSec: 0
+      _VertexOffsetIndensity: 0
+      _VertexOffsetTexU: 0
+      _VertexOffsetTexV: 0
+      _ZWrite: 1
+      __dirty: 1
+      _src: 1
+      radiansAlpha: 0
+      radiansAlpha2: 0
+      radiansAlpha3: 0
+      radiansAlpha4: 0
+      radiansAlpha5: 176
+      radiansAlpha6: 0
+      radiansDistortionTex: 0
+      radiansMaintex: 78
+    m_Colors:
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

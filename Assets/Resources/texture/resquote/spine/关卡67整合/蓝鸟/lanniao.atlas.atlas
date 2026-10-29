@@ -1,0 +1,62 @@
+
+lanniao.png
+size: 95,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb
+  rotate: false
+  xy: 2, 37
+  size: 53, 34
+  orig: 56, 36
+  offset: 3, 0
+  index: -1
+jio1
+  rotate: false
+  xy: 2, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+jio2
+  rotate: false
+  xy: 57, 35
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+lianhong
+  rotate: false
+  xy: 2, 21
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 73
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 50, 8
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 57, 53
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 30, 5
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

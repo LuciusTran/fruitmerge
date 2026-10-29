@@ -1,0 +1,41 @@
+{
+  "sourceGame": {
+    "package": "com.stellajoy.fruitmerge",
+    "version": "3.9",
+    "unityVersion": "6000.2.7f2"
+  },
+  "inputs": [
+    {
+      "apk": "com.stellajoy.fruitmerge.apk",
+      "sha256": "520301c563e3a3a4c7ae027bf3bb03a69660187140b2381a1f18bbb2fd0a4940"
+    },
+    {
+      "apk": "config.arm64_v8a.apk",
+      "sha256": "e8dc798367a2ce83f2fde957fa3dfd12c3f7cf56d9bacc567c487bb5aab30e4f"
+    },
+    {
+      "apk": "UnityDataAssetPack.apk",
+      "sha256": "a04f98268950a1a6b1856cf97bd23246336a9c6c91207321ef64eca627b2bace"
+    }
+  ],
+  "assetExtraction": {
+    "primaryApk": "UnityDataAssetPack.apk",
+    "paths": [
+      "assets/Bundles/Main/",
+      "assets/bin/Data/"
+    ],
+    "decodedUnityBundles": 344,
+    "exporter": "AssetRipper"
+  },
+  "codeAnalysis": {
+    "nativeBinarySha256": "e79d504961bdacfdb3ca1ef7da8771461518518d7afbf83c221eb5c307bfba0a",
+    "selectedGameplayBodies": 607,
+    "decompiledGameplayBodies": 607,
+    "nativeReferenceDirectory": "DecompiledNative",
+    "csharpMapping": "Evidence/csharp-restoration-map.json"
+  },
+  "limitations": [
+    "Assets and metadata were extracted from the supplied APK package; this repository does not include original APKs.",
+    "The playable C# project is a reconstruction based on native evidence, with authored host/UI integration; it is not original C# source."
+  ]
+}

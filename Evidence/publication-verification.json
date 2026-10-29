@@ -1,0 +1,41 @@
+{
+  "verifiedAt": "2026-10-29T03:46:59.040829+00:00",
+  "unityVersion": "6000.4.12f1",
+  "productName": "Fruit Merge",
+  "scene": "Assets/Recovery/Scenes/FruitMergePlayable.unity",
+  "build": {
+    "target": "StandaloneLinux64",
+    "method": "RecoveredProjectBuilder.BuildLinux",
+    "freshImport": true,
+    "passed": true,
+    "output": "Builds/Linux/FruitMerge",
+    "includedInGit": false
+  },
+  "player": {
+    "mode": "batchmode-nographics",
+    "passed": true,
+    "checkCount": 24,
+    "report": "Evidence/publication-player-smoke.json"
+  },
+  "sourceCopy": {
+    "originalFileCount": 14575,
+    "missingFiles": [],
+    "intentionalChanges": [
+      "Assets/Recovery/RecoveredGameFlow.cs",
+      "Assets/Recovery/RecoveredPlaySmoke.cs",
+      "Assets/Recovery/Editor/RecoveredProjectBuilder.cs",
+      "Assets/Recovery/Scenes/FruitMergePlayable.unity",
+      "ProjectSettings/ProjectSettings.asset"
+    ],
+    "notes": "Changes set product/company names, menu/footer text, standalone build/report destinations and regenerate the playable scene. Extracted art/audio assets were copied unchanged."
+  },
+  "assetValidation": {
+    "caseCollisions": 0,
+    "duplicateMetaGuids": 0,
+    "missingMetaFiles": 0
+  },
+  "limitations": [
+    "Android build, manual mouse/touch input and complete parity with the original game were not verified by this run.",
+    "The headless test checks game state and Physics2D behavior; it does not establish visual equivalence."
+  ]
+}

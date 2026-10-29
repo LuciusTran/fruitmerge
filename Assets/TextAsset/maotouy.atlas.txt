@@ -1,0 +1,55 @@
+
+maotouy.png
+size: 158,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb1
+  rotate: true
+  xy: 79, 40
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+jio1
+  rotate: true
+  xy: 79, 3
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+jio2
+  rotate: false
+  xy: 119, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 2, 109
+  size: 129, 149
+  orig: 129, 149
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 7
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 133, 236
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 133, 216
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

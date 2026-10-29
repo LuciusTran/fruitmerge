@@ -1,0 +1,20 @@
+
+beiduimao.png
+size: 140,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ST
+  rotate: true
+  xy: 2, 2
+  size: 90, 104
+  orig: 90, 110
+  offset: 0, 6
+  index: -1
+weiba
+  rotate: true
+  xy: 108, 43
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1

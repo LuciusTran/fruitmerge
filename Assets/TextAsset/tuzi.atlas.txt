@@ -1,0 +1,34 @@
+
+tuzi.png
+size: 362,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizhuo
+  rotate: true
+  xy: 152, 14
+  size: 169, 145
+  orig: 169, 145
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 9
+  size: 174, 148
+  orig: 174, 163
+  offset: 0, 8
+  index: -1
+youer
+  rotate: false
+  xy: 299, 90
+  size: 61, 93
+  orig: 61, 93
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 299, 2
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1

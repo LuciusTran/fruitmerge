@@ -1,0 +1,13 @@
+{
+  "passed": null,
+  "status": "not-verified",
+  "reason": "Desktop did not deliver the requested XTest pointer motion; gameplay input was not evaluated.",
+  "requestedRootPosition": [
+    391,
+    473
+  ],
+  "observedRootPosition": [
+    518,
+    610
+  ]
+}

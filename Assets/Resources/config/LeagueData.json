@@ -1,0 +1,199 @@
+{
+  "LeagueItems": [
+    {
+      "TargetGrade" : 7,
+      "FakeAddRatio" : 0.7,
+      "FakerUserOffLineMaxScoreScale" : 3,
+      "FakerUserAOnlineScale" : 1.2,
+      "FakerUserBOnlineScale" : 0.9,
+      "FakerUserCOnlineScale" : 0.2,
+      "FakerUserAOffLineScale" : 1.5,
+      "FakerUserBOffLineScale" : 0.6,
+      "FakerUserCOffLineScale" : 0.1,
+      "FakeUserANum" : 20,
+      "FakeUserBNum" : 50,
+      "FakeUserCNum" : 29,
+      "FakerUserDefaultMinTargetNum" : 20,
+      "FakerUserDefaultMaxTargetNum" : 60,
+      "LeagueReward": [
+        {
+          "coin": 100,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 1,
+          "shake": 1
+        },
+        {
+          "coin": 50,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 0,
+          "shake": 0
+        },
+        {
+          "coin": 50,
+          "clean": 0,
+          "bomb": 0,
+          "upgrade": 0,
+          "shake": 0
+        }
+      ]
+    },
+    {
+      "TargetGrade" : 8,
+      "FakeAddRatio" : 0.7,
+      "FakerUserOffLineMaxScoreScale" : 2,
+      "FakerUserAOnlineScale" : 1.2,
+      "FakerUserBOnlineScale" : 0.9,
+      "FakerUserCOnlineScale" : 0.2,
+      "FakerUserAOffLineScale" : 1.5,
+      "FakerUserBOffLineScale" : 0.6,
+      "FakerUserCOffLineScale" : 0.1,
+      "FakeUserANum" : 20,
+      "FakeUserBNum" : 50,
+      "FakeUserCNum" : 29,
+      "FakerUserDefaultMinTargetNum" : 20,
+      "FakerUserDefaultMaxTargetNum" : 40,
+      "LeagueReward": [
+        {
+          "coin": 100,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 1,
+          "shake": 1
+        },
+        {
+          "coin": 50,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 0,
+          "shake": 0
+        },
+        {
+          "coin": 50,
+          "clean": 0,
+          "bomb": 0,
+          "upgrade": 0,
+          "shake": 0
+        }
+      ]
+    },
+    {
+      "TargetGrade" : 9,
+      "FakeAddRatio" : 0.5,
+      "FakerUserOffLineMaxScoreScale" : 2,
+      "FakerUserAOnlineScale" : 1.2,
+      "FakerUserBOnlineScale" : 0.9,
+      "FakerUserCOnlineScale" : 0.2,
+      "FakerUserAOffLineScale" : 1.5,
+      "FakerUserBOffLineScale" : 0.6,
+      "FakerUserCOffLineScale" : 0.1,
+      "FakeUserANum" : 20,
+      "FakeUserBNum" : 50,
+      "FakeUserCNum" : 29,
+      "FakerUserDefaultMinTargetNum" : 5,
+      "FakerUserDefaultMaxTargetNum" : 20,
+      "LeagueReward": [
+        {
+          "coin": 100,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 1,
+          "shake": 1
+        },
+        {
+          "coin": 50,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 0,
+          "shake": 0
+        },
+        {
+          "coin": 50,
+          "clean": 0,
+          "bomb": 0,
+          "upgrade": 0,
+          "shake": 0
+        }
+      ]
+    },
+    {
+      "TargetGrade" : 10,
+      "FakeAddRatio" : 0.5,
+      "FakerUserOffLineMaxScoreScale" : 1.5,
+      "FakerUserAOnlineScale" : 1.2,
+      "FakerUserBOnlineScale" : 0.9,
+      "FakerUserCOnlineScale" : 0.2,
+      "FakerUserAOffLineScale" : 1.5,
+      "FakerUserBOffLineScale" : 0.6,
+      "FakerUserCOffLineScale" : 0.1,
+      "FakeUserANum" : 15,
+      "FakeUserBNum" : 55,
+      "FakeUserCNum" : 29,
+      "FakerUserDefaultMinTargetNum" : 3,
+      "FakerUserDefaultMaxTargetNum" : 10,
+      "LeagueReward": [
+        {
+          "coin": 100,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 1,
+          "shake": 1
+        },
+        {
+          "coin": 50,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 0,
+          "shake": 0
+        },
+        {
+          "coin": 50,
+          "clean": 0,
+          "bomb": 0,
+          "upgrade": 0,
+          "shake": 0
+        }
+      ]
+    },
+    {
+      "TargetGrade" : 11,
+      "FakeAddRatio" : 0.3,
+      "FakerUserOffLineMaxScoreScale" : 1.2,
+      "FakerUserAOnlineScale" : 1.2,
+      "FakerUserBOnlineScale" : 0.9,
+      "FakerUserCOnlineScale" : 0.2,
+      "FakerUserAOffLineScale" : 1.5,
+      "FakerUserBOffLineScale" : 0.6,
+      "FakerUserCOffLineScale" : 0.1,
+      "FakeUserANum" : 10,
+      "FakeUserBNum" : 40,
+      "FakeUserCNum" : 49,
+      "FakerUserDefaultMinTargetNum" : 0,
+      "FakerUserDefaultMaxTargetNum" : 5,
+      "LeagueReward": [
+        {
+          "coin": 100,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 1,
+          "shake": 1
+        },
+        {
+          "coin": 50,
+          "clean": 1,
+          "bomb": 1,
+          "upgrade": 0,
+          "shake": 0
+        },
+        {
+          "coin": 50,
+          "clean": 0,
+          "bomb": 0,
+          "upgrade": 0,
+          "shake": 0
+        }
+      ]
+    }
+  ]
+}

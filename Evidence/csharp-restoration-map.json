@@ -1,0 +1,526 @@
+{
+  "methods": [
+    {
+      "class": "FMGameLauncher",
+      "method": "Awake",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "FMGameLauncher",
+      "method": "Start",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "FruitItem",
+      "method": "Awake",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_Awake_1875b28.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "CheckMergeFruit",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_CheckMergeFruit_18765c0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "UpdateSkin",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_UpdateSkin_1875e34.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "UpdateCollider2D",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_UpdateCollider2D_18761e4.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SetKinematic",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SetKinematic_18763bc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "ReleaseDown",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_ReleaseDown_187657c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "CanMerge",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_CanMerge_18780a0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SetCollided",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SetCollided_1877e2c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SetMerged",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SetMerged_1878850.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "OnCollisionEnter2D",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_OnCollisionEnter2D_1877ce8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "GetCurrentCombo",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_GetCurrentCombo_1876d84.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "StopComboCheck",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_StopComboCheck_1876bb8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "StartWaitingForCombo",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_StartWaitingForCombo_1876de4.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "WaitingComboEnd",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "FruitItem",
+      "method": "Merge",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_Merge_18780dc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "DestroyOldFruits",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_DestroyOldFruits_187886c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "UpdateScoreUI",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_UpdateScoreUI_187905c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "UpdateMergeExp",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_UpdateMergeExp_187898c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "Update",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_Update_18766fc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "DropOutDestroy",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_DropOutDestroy_1876a20.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "StartRedAnimation",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_StartRedAnimation_1876878.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "ResetRedAnimation",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_ResetRedAnimation_1876994.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "StopRedAnimation",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_StopRedAnimation_18768b8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "ClearForFinish",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_ClearForFinish_1876b74.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SwitchFinishedStates",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SwitchFinishedStates_1876c9c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SwitchNormalStates",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SwitchNormalStates_1875f40.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "SwitchBlinkStates",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_SwitchBlinkStates_1876d2c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "StopAllAnimationCoroutines",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_StopAllAnimationCoroutines_1876404.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "DestroyFruit",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "FruitItem",
+      "method": "Delay",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "FruitItem",
+      "method": "PlayTouchSound",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_PlayTouchSound_1878410.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "PlayCreateAnimation",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_PlayCreateAnimation_1878c14.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "PlayMergeParticle",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_PlayMergeParticle_1878dc4.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "PlayDestroyParticle",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_PlayDestroyParticle_1879178.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "ShowToolEffect",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_ShowToolEffect_1876ce8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "HideToolEffect",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_HideToolEffect_1876bd0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "HideToolEffectWithoutNormalStates",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_HideToolEffectWithoutNormalStates_1876d10.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "FruitItem",
+      "method": "IsShowingToolEffect",
+      "nativeEvidence": "DecompiledNative/FruitItem/FruitItem_IsShowingToolEffect_1876cd0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "Awake",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_Awake_18799b8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "StartGame",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_StartGame_1879dec.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "InitEdges",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_InitEdges_1879eb8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DeadPositionY",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DeadPositionY_1876854.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "RandomNextFruit",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_RandomNextFruit_187a5a8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CreateFruitItem",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CreateFruitItem_1878ab8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CreateRandomFruitItem",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CreateRandomFruitItem_187a5cc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ResetLastFruitPosByLine",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ResetLastFruitPosByLine_187a57c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ResetLastFruitPosByCurrent",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ResetLastFruitPosByCurrent_187cf54.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "UpdatePos",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_UpdatePos_187bbdc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "StartFruitDragging",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_StartFruitDragging_187bab0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ReleaseCurrentFruit",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ReleaseCurrentFruit_187bdd4.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "StartCreateRandomFruitCoroutine",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_StartCreateRandomFruitCoroutine_187e3ac.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "StopCreateRandomFruitCoroutine",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_StopCreateRandomFruitCoroutine_187ab80.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "Delay",
+      "nativeEvidence": null,
+      "status": "integration-adapter"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "Update",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_Update_187b00c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "FixedUpdate",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_FixedUpdate_187bfe0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "SaveFruits",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_SaveFruits_187a718.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "LoadFruits",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_LoadFruits_1879fc8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ClearFruitsPrefs",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ClearFruitsPrefs_187e47c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "NewStart",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_NewStart_187d228.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "Retry",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_Retry_187d670.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ResetStatus",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ResetStatus_187d0d8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ClearStatus",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ClearStatus_187d9a4.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DestroyChildren",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DestroyChildren_187cc04.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "FinishGame",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_FinishGame_18768cc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ClearFruitsByRevive",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ClearFruitsByRevive_187cf8c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DestroyCurrentFruit",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DestroyCurrentFruit_187d188.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "QuitGame",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_QuitGame_187a674.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "OnApplicationQuit",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_OnApplicationQuit_187e4d8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "OnApplicationPause",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_OnApplicationPause_187e6b8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "EnterGame",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_EnterGame_187da4c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "HideCurrentIndicator",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_HideCurrentIndicator_187c304.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "ShowCurrentIndicator",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_ShowCurrentIndicator_187c358.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "UpdateCurrentIndicatorPosition",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_UpdateCurrentIndicatorPosition_187c5b0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CanClean",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CanClean_187ed90.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CanBombOrUpgradeOrShake",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CanBombOrUpgradeOrShake_187eefc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DoToolClean",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DoToolClean_187f068.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DoToolBomb",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DoToolBomb_187f300.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DoToolUpgrade",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DoToolUpgrade_187f3f0.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CancelUseBomb",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CancelUseBomb_187ecbc.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CancelUseUpgrade",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CancelUseUpgrade_187eb74.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "IsUsingBomb",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_IsUsingBomb_187b598.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "IsUsingUpgrade",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_IsUsingUpgrade_187b81c.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "DoToolShake",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_DoToolShake_187f5a8.cpp",
+      "status": "translated-with-runtime-adaptations"
+    },
+    {
+      "class": "MergeFruit",
+      "method": "CheckRedLine",
+      "nativeEvidence": "DecompiledNative/MergeFruit/MergeFruit_CheckRedLine_1877e48.cpp",
+      "status": "translated-with-runtime-adaptations"
+    }
+  ],
+  "limitations": [
+    "Native-derived bodies include defensive checks and runtime adapters.",
+    "Bootstrap/UI/save profile/economy are reconstructed integrations, not recovered original C#.",
+    "Shake physics and cosmetic effects approximate unresolved DOTween behavior.",
+    "Unlisted exported methods remain stubs and are outside the active recovered flow."
+  ]
+}

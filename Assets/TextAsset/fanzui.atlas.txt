@@ -1,0 +1,41 @@
+
+fanzui.png
+size: 191,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanjiao
+  rotate: true
+  xy: 166, 20
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 99, 42
+  size: 75, 64
+  orig: 78, 64
+  offset: 1, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 5
+  size: 101, 95
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 134, 3
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 99, 2
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

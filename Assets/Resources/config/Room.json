@@ -1,0 +1,3344 @@
+[
+  {
+    "RoomName": "Room181",
+    "DisplayName": "Watermelon Room",
+    "ItemList": [
+      {
+        "ItemName": "1大窗",
+        "ItemTickets": 30
+      },
+      {
+        "ItemName": "2小西瓜地毯",
+        "ItemTickets": 20
+      },
+      {
+        "ItemName": "3大地毯",
+        "ItemTickets": 20
+      },
+      {
+        "ItemName": "5小窗",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "6衣柜",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "8床",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "10床头柜",
+        "ItemTickets": 30
+      },
+      {
+        "ItemName": "13壁橱",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "14门形挂画",
+        "ItemTickets": 20
+      },
+      {
+        "ItemName": "17沙发",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "20发财树",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "21茶几",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "23电视柜",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "25白绿桌",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "28榨汁机",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "30冰箱",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "32紫白柜",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "35鞋架",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "38植物柜",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "39植物柜",
+        "ItemTickets": 70
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room33",
+    "DisplayName": "Open Kitchen",
+    "ItemList": [
+      {
+        "ItemName": "3柜子",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "4黑板",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "6窗户",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "7洗手池",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "8炉灶",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "11冰箱",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "16柜子",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "18碗架",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "24画",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "27桌子",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "37时钟",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "32调料",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "35花瓶",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "36花丛",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "40小地毯",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "42小猫",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "21墙架",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "22熔炉",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "49餐车",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "38左灯",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "39右灯",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "50栏杆",
+        "ItemTickets": 70
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room112",
+    "DisplayName": "Juice Bar",
+    "ItemList": [
+      {
+        "ItemName": "1地毯",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "2置物架",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "4栏杆",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "5置物架商品",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "10货柜",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "11折叠椅",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "12西瓜水果堆",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "14苹果箱子",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "15水果凳子",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "17柠檬",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "19兔子",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "20柜台",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "22收纳盒",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "21背包",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "24架子",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "31玻璃盖",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "34盆栽",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "36收银",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "38野餐篮",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "40绿植",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "41冰柜",
+        "ItemTickets": 200
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room29",
+    "DisplayName": "Art Studio",
+    "ItemList": [
+      {
+        "ItemName": "1空调",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "3绿植",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "5石膏像",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "6架子",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "11钢琴",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "12垫子",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "16琴谱",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "18凳子",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "19柜子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "21石膏像",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "23置物架",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "26沙发",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "29纸箱",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "30画",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "33地毯",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "36画架",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "39推车",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "42颜料",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "43画",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "44垃圾桶",
+        "ItemTickets": 50
+      },
+      {
+        "ItemName": "45玻璃",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "46玻璃",
+        "ItemTickets": 150
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room174",
+    "DisplayName": "Sukiyaki Shop",
+    "ItemList": [
+      {
+        "ItemName": "1宣传报",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "3置物架",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "6紫色花盆",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "7冰箱",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "8取餐口",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "11饮料架",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "15调料桌",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "18长桌",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "19海苔寿司",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "25方桌",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "26火锅",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "28屏风",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "30前台桌",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "32收银台",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "35窗户",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "36圆灯笼",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "37寿喜锅招牌",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "38落地灯笼",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "38落地灯笼_1",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "39顶棚",
+        "ItemTickets": 250
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room13",
+    "DisplayName": "Pub",
+    "ItemList": [
+      {
+        "ItemName": "1地板",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "2地板",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "3海报",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "5字母灯",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "6大音响",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "6大音响_1",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "7架子鼓",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "8麦",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "9音响",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "10吉他",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "12舞台",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "13灯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "17吧台",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "27果汁桶",
+        "ItemTickets": 70
+      },
+      {
+        "ItemName": "19架子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "29月亮灯",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "31桌子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "34小桌",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "36沙发",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "37氛围灯",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "38点唱机",
+        "ItemTickets": 200
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room5",
+    "DisplayName": "Pink Room",
+    "ItemList": [
+      {
+        "ItemName": "地板",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "玻璃地板",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "窗户",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "沙发",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "茶几1",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "地毯1",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "地毯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "置物架",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "装饰画",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "钢琴",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "奖杯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "钢琴凳",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "黑框玻璃栅栏2",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "绿植",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "吊篮",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "茶几",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "垃圾桶",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "盆栽",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "阳台绿植",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "时钟",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "植物标本挂画",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "饮水机",
+        "ItemTickets": 200
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room16",
+    "DisplayName": "Laundry Room",
+    "ItemList": [
+      {
+        "ItemName": "3楼梯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "4地毯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "5脏衣娄",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "6隔板",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "6隔板_1",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "7洗衣机",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "8空篓子",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "9垃圾桶",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "13装饰画",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "14窗户",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "15窗户",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "12镜子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "17花瓶",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "19地毯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "23洗手池",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "24帘子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "26熨烫架",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "30一摞衣服",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "33鞋盒",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "34衣架",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "36绿植",
+        "ItemTickets": 200
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room26",
+    "DisplayName": "Cozy Room",
+    "ItemList": [
+      {
+        "ItemName": "1地垫",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "2窗户",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "4相册架子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "10装饰画",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "11盆栽",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "12冰箱",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "20沙发",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "21洗菜池",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "22洗菜池台子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "25微波炉",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "26窗户",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "31电视",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "32餐盘",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "33椅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "36汤",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "37挂件",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "38盆栽",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "39果篮",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "40桌子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "41柜子",
+        "ItemTickets": 300
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room224",
+    "DisplayName": "Fruit Shop",
+    "ItemList": [
+      {
+        "ItemName": "1通风窗",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "2店铺简介",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "3菠萝相框",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "4价目表",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "5时钟",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "6货架",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "13椅子",
+        "ItemTickets": 100
+      },
+      {
+        "ItemName": "14前台卓",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "15进门毯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "17前台屏幕",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "19L型货架桌",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "21梅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "26圣女果",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "29长桌",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "30西瓜切片",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "33招牌",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "35果架框",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "36柠檬",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "39灯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "39灯_1",
+        "ItemTickets": 250
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room25",
+    "DisplayName": "Plant Bathroom",
+    "ItemList": [
+      {
+        "ItemName": "1屋顶",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "2瓷砖",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "3地板",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "4地毯",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "7窗户",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "6浴缸",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "13刷子",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "16装饰画",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "18凳子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "20玻璃边柜",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "24镜子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "25洗手池",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "27绿植",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "28地毯",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "29隔断",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "30洗衣机",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "35花架",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "39灯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "41花坛",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "42花坛",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "43架子",
+        "ItemTickets": 300
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room34",
+    "DisplayName": "Go Parlor",
+    "ItemList": [
+      {
+        "ItemName": "2地板",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "4门",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "5衣帽架",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "7隔断",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "8挂画",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "9柜子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "14棋盘",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "14托盘",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "17灯笼",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "18栏杆",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "20屋顶",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "21金桔",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "22矮桌",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "25茶几",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "28门脚垫",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "30风铃",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "32桌子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "36花灯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "37摇椅",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "39木凳",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "41石板路",
+        "ItemTickets": 400
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room37",
+    "DisplayName": "Police Station",
+    "ItemList": [
+      {
+        "ItemName": "2地毯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "3通风口",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "4小熊犯人",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "5门墙",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "7监狱门",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "11挂件",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "14桌子",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "17大柜子",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "18盆栽",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "19椅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "20椅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "21讲台",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "24桌子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "24桌子_1",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "25告示牌",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "27垃圾桶",
+        "ItemTickets": 150
+      },
+      {
+        "ItemName": "31栏杆",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "32小熊警察",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "33饮水机",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "36监控",
+        "ItemTickets": 350
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room41",
+    "DisplayName": "Music Studio",
+    "ItemList": [
+      {
+        "ItemName": "1地板",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "2窗户",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "3话筒",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "5桌子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "11椅子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "12铁丝架",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "17挂画",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "20柜子",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "26木吉他",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "27地毯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "29木吉他",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "30椅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "31椅子",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "34茶几",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "36花架",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "39水壶",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "40花坛",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "41门",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "42置物架",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "45玻璃",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "46房顶",
+        "ItemTickets": 300
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room44",
+    "DisplayName": "Bunny Hut",
+    "ItemList": [
+      {
+        "ItemName": "1窗户",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "4地毯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "5床",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "9屏风",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "10灯笼",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "11床头柜",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "13挂画",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "15窗户",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "16书柜",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "17兔子摆件",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "18画卷",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "19地毯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "21靠枕",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "22花",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "23灯",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "24桌子",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "28兔子灯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "29兔子灯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "32盆景",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "34围栏",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "35围栏",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "38提灯",
+        "ItemTickets": 300
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room31",
+    "DisplayName": "Wooden Cabin",
+    "ItemList": [
+      {
+        "ItemName": "2木头顶",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "3窗栏",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "4地毯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "6小地毯",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "8架子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "12画",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "17床",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "18床头柜",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "20柜子",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "22书柜",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "23火炉",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "24楼梯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "25墙架",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "28木栏",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "29桌子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "31木台",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "35沙发",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "36餐桌",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "40椅子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "41绿植",
+        "ItemTickets": 250
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room178",
+    "DisplayName": "Ramen Shop",
+    "ItemList": [
+      {
+        "ItemName": "1小柜子",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "4碗柜",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "7前台桌",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "8长椅",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "10拉面",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "12窗户",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "13盆栽",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "14发光灯笼",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "15地毯",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "17旗子",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "19画",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "20大餐桌",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "21矮椅",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "23餐具",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "24小柴犬",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "27茶桌",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "29拉面牌子",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "31天妇罗拉面",
+        "ItemTickets": 200
+      },
+      {
+        "ItemName": "33灯笼",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "34店名牌子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "35大草丛",
+        "ItemTickets": 250
+      },
+      {
+        "ItemName": "36寿司",
+        "ItemTickets": 300
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room27",
+    "DisplayName": "24/7 Store",
+    "ItemList": [
+      {
+        "ItemName": "1地板",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "2招牌",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "3窗户",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "4货柜",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "8绿植",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "9柜子",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "10柜子",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "18置物架",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "24置物架",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "27装饰画",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "28置物架",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "35桌子",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "35桌子_1",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "36绿植",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "37栏杆",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "38栏杆",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "39楼梯",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "43路灯",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "44架子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "46折叠椅",
+        "ItemTickets": 400
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room46",
+    "DisplayName": "Bank",
+    "ItemList": [
+      {
+        "ItemName": "1摄像头",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "1摄像头_1",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "2屏幕",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "4窗帘",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "5空调",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "6海报",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "7时钟",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "8海报",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "10取款机",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "11垃圾桶",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "12饮水机",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "13隔断",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "14柜子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "19桌子",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "24凳子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "26地毯",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "27沙发",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "29桌子",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "32报刊架",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "33长凳",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "35签到机",
+        "ItemTickets": 550
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room50",
+    "DisplayName": "Dino Hall",
+    "ItemList": [
+      {
+        "ItemName": "1摄像头",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "2海报",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "3画框",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "4展框",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "6地图",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "7火把",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "8火把",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "9展示台",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "9展示台_1",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "12围栏",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "13展柜",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "14立牌",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "15地球仪",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "16围栏",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "17底座",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "18霸王龙",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "19立牌",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "20植物",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "21恐龙蛋",
+        "ItemTickets": 750
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room52",
+    "DisplayName": "Dental Clinic",
+    "ItemList": [
+      {
+        "ItemName": "1绿柜子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "3白柜子",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "5垃圾桶",
+        "ItemTickets": 300
+      },
+      {
+        "ItemName": "7绿植",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "8电脑桌",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "9电脑椅",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "16牙科椅子垫",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "18镜子",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "19洗手池",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "21窗帘",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "22挂画",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "23钟",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "24大壁柜",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "25牙科椅",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "26转椅",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "27推车架",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "28隔断",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "29空调",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "30地毯",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "31等候沙发",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "35茶几物品",
+        "ItemTickets": 400
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room61",
+    "DisplayName": "Magic Cottage",
+    "ItemList": [
+      {
+        "ItemName": "1桌子",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "5柜子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "6地毯",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "7魔法锅",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "8窗户",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "9小棋子",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "1桌子_1",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "11商品架",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "21房子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "22盒子",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "23墙面",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "24海报",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "25柜台",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "26盆栽",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "26盆栽_1",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "27路灯",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "28楼梯",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "29鸟笼",
+        "ItemTickets": 550
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room62",
+    "DisplayName": "KTV",
+    "ItemList": [
+      {
+        "ItemName": "1底部射灯蓝",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "3翅膀装饰",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "8霓虹招牌",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "10舞台装饰",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "11音响",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "13话筒",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "14音响",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "1底部射灯蓝_1",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "15沙发",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "19桌子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "25沙发",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "26角落桌",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "27灯带",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "28箭头",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "30电视机",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "31挂式音响",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "32点歌机",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "34茶几",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "36射灯",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "36射灯_1",
+        "ItemTickets": 600
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room63",
+    "DisplayName": "Pool Room",
+    "ItemList": [
+      {
+        "ItemName": "1地毯",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "2自动贩卖机",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "3小书架",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "4沙发",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "5酒柜",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "8绿植",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "9吧台",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "10饮料",
+        "ItemTickets": 350
+      },
+      {
+        "ItemName": "16唱片",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "17吉他",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "18凳子",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "19电视",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "20L型柜子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "21球杆",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "25台球桌",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "26游戏机",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "27台球杆架",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "28台球杆",
+        "ItemTickets": 400
+      },
+      {
+        "ItemName": "29海报",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "30小灯牌",
+        "ItemTickets": 500
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room64",
+    "DisplayName": "Bunk Room",
+    "ItemList": [
+      {
+        "ItemName": "1床",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "3楼梯",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "4地毯",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "7桌子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "8电脑",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "9紫椅子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "10粉椅子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "11书",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "12窗台",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "14灯",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "14灯_1",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "15花垫子",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "16猫背影",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "17长方形挂画",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "19衣柜",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "21风铃",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "22秋千",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "23猫咪",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "24盆栽",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "25小鸡闹钟",
+        "ItemTickets": 500
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room67",
+    "DisplayName": "BBQ Shop",
+    "ItemList": [
+      {
+        "ItemName": "1窗户",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "2窗帘",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "3盆栽",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "4凳子",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "6柜子",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "9地毯",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "10柜子",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "12黑板",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "13冰柜",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "14盖布",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "15推车",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "17凳子",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "19汽水",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "21BBQ",
+        "ItemTickets": 900
+      },
+      {
+        "ItemName": "22装饰牌",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "23桌子",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "26蘸料",
+        "ItemTickets": 450
+      },
+      {
+        "ItemName": "35仙人球",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "36绿植",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "34板子",
+        "ItemTickets": 600
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room72",
+    "DisplayName": "Pet Bedroom",
+    "ItemList": [
+      {
+        "ItemName": "1空调",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "2窗户",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "3地毯",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "4大柜子",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "6落地台灯",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "7绳子灯",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "9床头柜",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "10床",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "12电脑",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "13椅子",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "14台阶",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "16相片墙",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "17壁柜",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "18隔断",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "19绿植",
+        "ItemTickets": 550
+      },
+      {
+        "ItemName": "20鱼缸",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "21沙发",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "22电视茶几",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "25电视机",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "26角落绿植",
+        "ItemTickets": 500
+      },
+      {
+        "ItemName": "29阳台沙发",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "30阳台栏杆",
+        "ItemTickets": 700
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room73",
+    "DisplayName": "Pizza Place",
+    "ItemList": [
+      {
+        "ItemName": "2冰柜",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "3小冰箱",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "4窗户",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "5挂历",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "7窗户",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "12调料台",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "15桌子",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "17帽子",
+        "ItemTickets": 600
+      },
+      {
+        "ItemName": "20地毯",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "21披萨",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "23板子",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "25披萨炉",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "26标牌",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "27柜子",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "28柜台",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "29地毯",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "41调料台",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "44空调",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "45栏杆",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "46栏杆",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "48楼梯",
+        "ItemTickets": 600
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room75",
+    "DisplayName": "Classroom",
+    "ItemList": [
+      {
+        "ItemName": "1黑板",
+        "ItemTickets": 950
+      },
+      {
+        "ItemName": "3锦旗",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "4粘贴板",
+        "ItemTickets": 650
+      },
+      {
+        "ItemName": "7窗户",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "8时钟",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "9值日表",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "10音箱",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "11收纳箱",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "12柜子",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "13柜子",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "19垃圾桶",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "20讲台",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "24课桌",
+        "ItemTickets": 900
+      },
+      {
+        "ItemName": "24课桌_1",
+        "ItemTickets": 900
+      },
+      {
+        "ItemName": "25书包",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "26书包",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "24课桌_2",
+        "ItemTickets": 900
+      },
+      {
+        "ItemName": "24课桌_3",
+        "ItemTickets": 900
+      },
+      {
+        "ItemName": "29书包",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "30书包",
+        "ItemTickets": 750
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  },
+  {
+    "RoomName": "Room76",
+    "DisplayName": "Capy Onsen Hut",
+    "ItemList": [
+      {
+        "ItemName": "1圆形窗",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "2浴池",
+        "ItemTickets": 1050
+      },
+      {
+        "ItemName": "4木盘",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "5屏风",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "6挂衣架",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "7灯笼",
+        "ItemTickets": 700
+      },
+      {
+        "ItemName": "8流苏地垫",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "10古风桌",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "11迎客松盆栽",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "12金叶子盆栽",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "13茶壶",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "14瑞士卷",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "18清水盆",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "19三层浴巾",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "21落地灯",
+        "ItemTickets": 750
+      },
+      {
+        "ItemName": "22灯护栏",
+        "ItemTickets": 800
+      },
+      {
+        "ItemName": "23花圃",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "25灯柱",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "25灯柱_1",
+        "ItemTickets": 850
+      },
+      {
+        "ItemName": "26拖鞋",
+        "ItemTickets": 650
+      }
+    ],
+    "RoomReward": [
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 50,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      },
+      {
+        "coin": 100,
+        "clean": 0,
+        "bomb": 0,
+        "upgrade": 0,
+        "shake": 0
+      }
+    ]
+  }
+]

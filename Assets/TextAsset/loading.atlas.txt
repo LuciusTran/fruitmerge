@@ -1,0 +1,55 @@
+
+loading.png
+size: 1666,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiezi
+  rotate: true
+  xy: 1383, 272
+  size: 194, 227
+  orig: 196, 229
+  offset: 1, 1
+  index: -1
+qiezi_yan
+  rotate: false
+  xy: 1101, 12
+  size: 95, 46
+  orig: 97, 48
+  offset: 1, 1
+  index: -1
+qingwa
+  rotate: false
+  xy: 1101, 60
+  size: 280, 406
+  orig: 282, 408
+  offset: 1, 1
+  index: -1
+qingwa_yan
+  rotate: true
+  xy: 1383, 35
+  size: 235, 93
+  orig: 243, 95
+  offset: 1, 1
+  index: -1
+shayu
+  rotate: true
+  xy: 2, 2
+  size: 904, 1097
+  orig: 904, 1097
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: true
+  xy: 1101, 468
+  size: 438, 563
+  orig: 440, 565
+  offset: 1, 1
+  index: -1
+xigua_yan
+  rotate: false
+  xy: 1198, 7
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1

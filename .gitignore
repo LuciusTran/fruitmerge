@@ -1,0 +1,36 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/UserSettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+
+# IDE and local tool configuration
+/.vs/
+/.idea/
+/.vscode/
+/.codex/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.user
+*.suo
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS and local environment files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example

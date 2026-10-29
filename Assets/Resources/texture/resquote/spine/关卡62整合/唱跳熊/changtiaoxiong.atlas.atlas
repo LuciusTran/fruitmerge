@@ -1,0 +1,97 @@
+
+changtiaoxiong.png
+size: 419,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidupi
+  rotate: true
+  xy: 248, 103
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 147, 54
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 278, 12
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 314, 109
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 326, 88
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 10
+  size: 161, 143
+  orig: 161, 143
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 372, 3
+  size: 24, 28
+  orig: 24, 29
+  offset: 0, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 248, 67
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+ysshang
+  rotate: true
+  xy: 366, 118
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+ysxia
+  rotate: false
+  xy: 147, 2
+  size: 63, 50
+  orig: 64, 50
+  offset: 1, 0
+  index: -1
+zsshang
+  rotate: true
+  xy: 333, 33
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+zsxia
+  rotate: false
+  xy: 212, 3
+  size: 64, 49
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 333, 9
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+yalingdog.png
+size: 348,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 123, 50
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+ear_left
+  rotate: false
+  xy: 234, 3
+  size: 54, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: true
+  xy: 290, 4
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 267, 57
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: true
+  xy: 158, 10
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 196, 11
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 123, 9
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 140, 119
+  orig: 140, 119
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 267, 111
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 290, 87
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+yaling
+  rotate: true
+  xy: 203, 53
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1

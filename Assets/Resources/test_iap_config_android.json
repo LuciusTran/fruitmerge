@@ -1,0 +1,23 @@
+{
+   "list" : [
+     {
+       "ProductID": "com.have.yourself.consumable",
+       "SKU": "test_sku_consumable2",
+       "IAPType": 0
+     },{
+       "ProductID": "com.have.yourself.consumable2",
+       "SKU": "test_sku_consumable",
+       "IAPType": 0
+     },
+     {
+       "ProductID": "com.have.yourself.nonconsumable",
+       "SKU": "test_sku_nonconsumable",
+       "IAPType": 1
+     },
+     {
+       "ProductID": "com.have.yourself.subscription",
+       "SKU": "test_sku_subscription",
+       "IAPType": 2
+     }
+   ]
+}

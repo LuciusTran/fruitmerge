@@ -1,0 +1,41 @@
+
+gui.png
+size: 1026,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guike
+  rotate: false
+  xy: 2, 2
+  size: 501, 350
+  orig: 581, 351
+  offset: 0, 0
+  index: -1
+guikedi
+  rotate: true
+  xy: 787, 55
+  size: 297, 116
+  orig: 297, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 505, 50
+  size: 302, 280
+  orig: 302, 280
+  offset: 0, 0
+  index: -1
+youqianshou
+  rotate: true
+  xy: 905, 15
+  size: 163, 114
+  orig: 164, 114
+  offset: 0, 0
+  index: -1
+zuoqianshou
+  rotate: true
+  xy: 905, 180
+  size: 172, 119
+  orig: 173, 120
+  offset: 0, 0
+  index: -1

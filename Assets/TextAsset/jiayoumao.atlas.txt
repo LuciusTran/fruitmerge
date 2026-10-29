@@ -1,0 +1,62 @@
+
+jiayoumao.png
+size: 424,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 187, 55
+  size: 124, 98
+  orig: 129, 119
+  offset: 5, 21
+  index: -1
+body2
+  rotate: false
+  xy: 287, 83
+  size: 95, 96
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: true
+  xy: 187, 2
+  size: 51, 50
+  orig: 51, 59
+  offset: 0, 9
+  index: -1
+foot2
+  rotate: false
+  xy: 239, 4
+  size: 46, 49
+  orig: 49, 53
+  offset: 0, 4
+  index: -1
+hand1
+  rotate: true
+  xy: 327, 23
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 287, 8
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 4
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 384, 139
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1

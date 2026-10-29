@@ -1,0 +1,34 @@
+
+kaixdushumao.png
+size: 373,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHU
+  rotate: true
+  xy: 249, 58
+  size: 184, 122
+  orig: 186, 122
+  offset: 0, 0
+  index: -1
+ST
+  rotate: false
+  xy: 2, 2
+  size: 170, 86
+  orig: 171, 86
+  offset: 1, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 90
+  size: 245, 152
+  orig: 245, 152
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 174, 17
+  size: 71, 60
+  orig: 71, 61
+  offset: 0, 0
+  index: -1

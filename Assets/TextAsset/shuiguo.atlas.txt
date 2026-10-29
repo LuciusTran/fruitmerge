@@ -1,0 +1,118 @@
+
+shuiguo.png
+size: 2033,823
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boluo_2
+  rotate: true
+  xy: 1929, 8
+  size: 156, 90
+  orig: 156, 90
+  offset: 0, 0
+  index: -1
+boluo_pt
+  rotate: true
+  xy: 1951, 559
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+lanmei_2
+  rotate: true
+  xy: 2003, 497
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+lanmei_pt
+  rotate: false
+  xy: 1963, 295
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1803, 14
+  size: 124, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+shoubai
+  rotate: false
+  xy: 1803, 166
+  size: 158, 179
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+stbai
+  rotate: false
+  xy: 910, 14
+  size: 891, 807
+  orig: 902, 807
+  offset: 0, 0
+  index: -1
+taozi_2
+  rotate: true
+  xy: 1991, 367
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+taozi_pt
+  rotate: true
+  xy: 1927, 349
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: false
+  xy: 2, 2
+  size: 906, 819
+  orig: 906, 819
+  offset: 0, 0
+  index: -1
+xigua_2
+  rotate: true
+  xy: 1803, 347
+  size: 216, 122
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+xigua_pt
+  rotate: true
+  xy: 1803, 565
+  size: 256, 146
+  orig: 256, 146
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1951, 661
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1
+zuia
+  rotate: false
+  xy: 1963, 266
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+zuier
+  rotate: true
+  xy: 2003, 535
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+zuierer
+  rotate: true
+  xy: 1927, 449
+  size: 108, 74
+  orig: 108, 74
+  offset: 0, 0
+  index: -1

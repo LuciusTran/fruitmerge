@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e9761e7d6e43c094bbc67dd6a1afd4ce
+timeCreated: 1793179025
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData:
+  assetBundleName: shader_main
+  assetBundleVariant:

@@ -1,0 +1,19 @@
+{
+   "list" : [
+     {
+       "ProductID": "com.lsjeap.yourgift.startover",
+       "SKU": "test_sku_consumable",
+       "IAPType": 0
+     },
+     {
+       "ProductID": "com.lsjeap.yourgift.superchest",
+       "SKU": "test_sku_nonconsumable",
+       "IAPType": 1
+     },
+     {
+       "ProductID": "com.lsjeap.yourgift.goldmembershipweek",
+       "SKU": "test_sku_subscription",
+       "IAPType": 2
+     }
+   ]
+}

@@ -1,0 +1,39 @@
+{
+  "RemoveAds": [
+    {
+      "product_id": "com.fruitmerge.pack.removead",
+      "removeAd": true,
+      "coin": 3000
+    },
+    {
+      "product_id": "com.fruitmerge.removead",
+      "removeAd": true
+    }
+  ],
+  "StartedBundle": {
+    "product_id": "com.fruitmerge.pack.starter",
+    "cleanTool": 3,
+    "bombTool": 3,
+    "upgradeTool": 3,
+    "shakeTool": 3,
+    "coin": 1000
+  },
+  "CoinsItem": [
+    {
+      "product_id": "com.fruitmerge.coins2000",
+      "coin": 2000
+    },
+    {
+      "product_id": "com.fruitmerge.coins5000",
+      "coin": 5000
+    },
+    {
+      "product_id": "com.fruitmerge.coins15000",
+      "coin": 15000
+    },
+    {
+      "product_id": "com.fruitmerge.coins30000",
+      "coin": 30000
+    }
+  ]
+}

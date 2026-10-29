@@ -1,0 +1,148 @@
+{
+    "dailyQuest": {
+        "taskScoreRule": {
+            "10": 1,
+            "20": 3,
+            "30": 1
+        },
+        "dailyQuestReward": [
+            {
+                "coin": 10,
+                "clean": 0,
+                "bomb": 0,
+                "upgrade": 0,
+                "shake": 0,
+                "random": 0
+            },
+            {
+                "coin": 10,
+                "clean": 0,
+                "bomb": 0,
+                "upgrade": 0,
+                "shake": 0,
+                "random": 0
+            },
+            {
+                "coin": 30,
+                "clean": 0,
+                "bomb": 0,
+                "upgrade": 0,
+                "shake": 0,
+                "random": 0
+            }
+        ],
+        "dailyTask": [
+            {
+                "titleName": "Merge @ Fruits.",
+                "needFinishNum": 200,
+                "rewardNum": 10,
+                "taskId": 1
+            },
+            {
+                "titleName": "Merge x@",
+                "needFinishNum": 30,
+                "rewardNum": 20,
+                "taskId": 2,
+                "taskParam": 7
+            },
+            {
+                "titleName": "Merge x@",
+                "needFinishNum": 20,
+                "rewardNum": 20,
+                "taskId": 2,
+                "taskParam": 8
+            },
+            {
+                "titleName": "Merge x@",
+                "needFinishNum": 10,
+                "rewardNum": 20,
+                "taskId": 2,
+                "taskParam": 9
+            },
+            {
+                "titleName": "Merge x@",
+                "needFinishNum": 5,
+                "rewardNum": 30,
+                "taskId": 2,
+                "taskParam": 10
+            },
+            {
+                "titleName": "Merge x@",
+                "needFinishNum": 1,
+                "rewardNum": 30,
+                "taskId": 2,
+                "taskParam": 11
+            },
+            {
+                "titleName": "Complete @ Combos.",
+                "needFinishNum": 100,
+                "rewardNum": 10,
+                "taskId": 3
+            },
+            {
+                "titleName": "Play @ Games.",
+                "needFinishNum": 2,
+                "rewardNum": 10,
+                "taskId": 5
+            },
+            {
+                "titleName": "Get @ total score.",
+                "needFinishNum": 5000,
+                "rewardNum": 20,
+                "taskId": 6
+            },
+            {
+                "titleName": "Use & Items x@",
+                "needFinishNum": 2,
+                "rewardNum": 20,
+                "taskId": 7,
+                "taskParam": 1
+            },
+            {
+                "titleName": "Use & Items x@",
+                "needFinishNum": 2,
+                "rewardNum": 20,
+                "taskId": 7,
+                "taskParam": 2
+            },
+            {
+                "titleName": "Use & Items x@",
+                "needFinishNum": 2,
+                "rewardNum": 20,
+                "taskId": 7,
+                "taskParam": 3
+            },
+            {
+                "titleName": "Use & Items x@",
+                "needFinishNum": 2,
+                "rewardNum": 20,
+                "taskId": 7,
+                "taskParam": 4
+            },
+            {
+                "titleName": "Get @ Tickets.",
+                "needFinishNum": 1000,
+                "rewardNum": 30,
+                "taskId": 9
+            },
+            {
+                "titleName": "Build @ items.",
+                "needFinishNum": 3,
+                "rewardNum": 10,
+                "taskId": 10
+            },
+            {
+                "titleName": "Complete @ Room.",
+                "needFinishNum": 1,
+                "rewardNum": 30,
+                "taskId": 11
+            },
+            {
+                "titleName": "Watch @ Video.",
+                "needFinishNum": 1,
+                "rewardNum": 30,
+                "taskId": 12
+            }
+        ]
+    }
+}

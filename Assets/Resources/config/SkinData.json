@@ -1,0 +1,49 @@
+{
+  "SkinItems": [
+    {
+      "Name" : "Watermelon",
+      "Type" : "Score",
+      "UnlockValue" : 0
+    },
+    {
+      "Name" : "ChefFruit",
+      "Type" : "Score",
+      "UnlockValue" : 10000
+    },
+    {
+      "Name" : "PrincessFruit",
+      "Type" : "Score",
+      "UnlockValue" : 20000
+    },
+    {
+      "Name" : "Brainrot",
+      "Type" : "Score",
+      "UnlockValue" : 50000
+    },
+    {
+      "Name" : "FruityPals",
+      "Type" : "Rank",
+      "UnlockValue" : 25
+    },
+    {
+      "Name" : "EverydayTreats",
+      "Type" : "Room",
+      "UnlockValue" : 5
+    },
+    {
+      "Name" : "Planet",
+      "Type" : "Room",
+      "UnlockValue" : 10
+    },
+    {
+      "Name" : "Chips",
+      "Type" : "Task",
+      "UnlockValue" : 30
+    },
+    {
+      "Name" : "Capybara",
+      "Type" : "Daily",
+      "UnlockValue" : 0
+    }
+  ]
+}

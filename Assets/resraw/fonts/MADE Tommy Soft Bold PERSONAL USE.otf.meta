@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f917c5c5cf7e4bf4693c43e4c887356c
+timeCreated: 1793179026
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MADE Tommy Soft
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName: 558f6121f4dd35f669e90f6cd446b187
+  assetBundleVariant:

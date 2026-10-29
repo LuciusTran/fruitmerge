@@ -1,0 +1,68 @@
+[
+  {
+    "day": 1,
+    "bomb": 1
+  },
+  {
+    "day": 2,
+    "coin": 50
+  },
+  {
+    "day": 3,
+    "shake": 1
+  },
+  {
+    "day": 4,
+    "coin": 50
+  },
+  {
+    "day": 5,
+    "upgrade": 1
+  },
+  {
+    "day": 6,
+    "coin": 50
+  },
+  {
+    "day": 7,
+    "clean": 1,
+    "bomb": 1,
+    "upgrade": 1,
+    "shake": 1
+  },
+  {
+    "day": 8,
+    "coin": 100
+  },
+  {
+    "day": 9,
+    "shake": 1
+  },
+  {
+    "day": 10,
+    "coin": 200
+  },
+  {
+    "day": 11,
+    "coin": 200
+  },
+  {
+    "day": 12,
+    "coin": 500
+  },
+  {
+    "day": 13,
+    "coin": 500
+  },
+  {
+    "day": 14,
+    "clean": 1,
+    "bomb": 1,
+    "upgrade": 1,
+    "shake": 1
+  },
+  {
+    "day": 15,
+    "skin": "Capybara"
+  }
+]

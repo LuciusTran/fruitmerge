@@ -1,0 +1,34 @@
+
+liwuhe.png
+size: 554,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangdai
+  rotate: true
+  xy: 446, 44
+  size: 158, 106
+  orig: 158, 196
+  offset: 0, 58
+  index: -1
+hedi
+  rotate: false
+  xy: 2, 16
+  size: 216, 186
+  orig: 216, 186
+  offset: 0, 0
+  index: -1
+hegai
+  rotate: false
+  xy: 220, 93
+  size: 224, 109
+  orig: 224, 109
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 220, 2
+  size: 189, 89
+  orig: 189, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+maoz.png
+size: 202,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 2
+  size: 142, 97
+  orig: 142, 97
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 146, 31
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 146, 5
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

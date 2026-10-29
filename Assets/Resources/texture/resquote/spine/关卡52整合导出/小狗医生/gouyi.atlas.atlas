@@ -1,0 +1,41 @@
+
+gouyi.png
+size: 301,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 2, 2
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 221, 11
+  size: 88, 70
+  orig: 88, 71
+  offset: 0, 1
+  index: -1
+foot1
+  rotate: false
+  xy: 2, 143
+  size: 154, 101
+  orig: 154, 163
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 118, 11
+  size: 88, 101
+  orig: 88, 103
+  offset: 0, 2
+  index: -1
+tou1
+  rotate: true
+  xy: 158, 101
+  size: 143, 141
+  orig: 154, 141
+  offset: 11, 0
+  index: -1
